@@ -27,3 +27,17 @@
 !white
 *color7:	#f6f6f6
 *color15:	#f8f8f8
+
+URxvt.perl-ext-common : default,matcher
+URxvt.urlLauncher     : dwb
+URxvt.matcher.button  : 1
+
+URxvt.perl-ext-common: default,tabbed
+
+urxvt -fn "xft:Terminus:pixelsize=20,style=regular"
+
+urxvt*transparent: false
+urxvt*shading: 15
+
+URxvt*scrollBar:  false
+LANG=en_US.UTF-8
