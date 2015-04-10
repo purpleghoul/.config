@@ -1,0 +1,41 @@
+!Bloodmoon 
+
+*.foreground:   #7B8695
+*.background:   #1B2227
+*.cursorColor:  #7B8695
+
+!kuro
+*color0:	#1F1F1F
+*color8:	#4d4d4d
+
+!aka
+*color1:	#A54242
+*color9:	#CC6666 
+
+!midori
+*color2:	#B7CE42
+*color10:	#BDE077
+
+!kiiro
+*color3:	#FEA63C
+*color11:	#FFE863
+
+!ao
+*color4:	#66AABB
+*color12:	#AACCBB
+
+!momoiro
+*color5:	#B7416E
+*color13:	#BB4466
+
+!mizuiro
+*color6:	#5E7175
+*color14:	#A3BABF
+
+!shiro
+*color7:	#DDEEDD
+*color15:	#6C887A
+
+URxvt*scrollBar:  false
+
+URxvt.perl-ext-common: default,tabbed
