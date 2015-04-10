@@ -1,4 +1,4 @@
-//Ghoul// 
+!Ghoul
 
 *foreground:	#fbfbfb
 *background:	#101012
@@ -29,7 +29,7 @@
 *color15:	#f8f8f8
 
 URxvt.perl-ext-common : default,matcher
-URxvt.urlLauncher     : dwb
+URxvt.urlLauncher     : firefox
 URxvt.matcher.button  : 1
 
 URxvt.perl-ext-common: default,tabbed
